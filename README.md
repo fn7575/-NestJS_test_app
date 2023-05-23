@@ -20,6 +20,6 @@ GET http://localhost:8888/ping
 GET http://localhost:8888/docs -> Redirection example
 GET http://localhost:8888/media/qwe.jpg -> Image example
 
-GET http://localhost:3000/items
-POST http://localhost:3000/items
+GET http://localhost:8888/items
+POST http://localhost:8888/items
 ```
